@@ -1,0 +1,21 @@
+body {
+	background-image: url(https://img.freepik.com/premium-photo/scrapbook-background-with-decoration-tea-cup-flowers-purple-background-copy-space_151851-111.jpg);
+	background-size: 100%;
+}
+td {
+	font-family: cursive;
+	text-align: center;
+	color: #220066;
+}
+h1 {
+	color: #661aff;
+}
+th {
+	font-family: cursive;
+	text-align: center;
+	color: #7700b3;
+	border-bottom: 0px;
+}
+table {
+	background-color: #e6b3ff ;
+}
